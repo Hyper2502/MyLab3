@@ -20,3 +20,17 @@ class RobotAssistant
         System.out.println("Method with a single parameter: The robot is " + a);
     }
 }
+
+/*
+
+The output is:
+
+Method without parameter: Waiting…!
+Method with a single parameter: The robot is serving food
+
+What are the advantages of using methods?
+R: You are able to re-use part of the code for different purpose, in this case. Using method with a parameter to say
+what's the robot doing.
+
+
+ */
